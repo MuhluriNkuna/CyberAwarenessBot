@@ -97,6 +97,7 @@ namespace CybersecurityChatbot
             Console.WriteLine("- Verify the sender's email address carefully.");
             Console.WriteLine("- Avoid clicking on links in suspicious emails, especially if they seem urgent.");
             Console.WriteLine("- Look for spelling mistakes and grammatical errors in suspicious messages.");
+            Console.WriteLine("look");
             Console.ResetColor();
         }
 
